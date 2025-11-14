@@ -52,26 +52,3 @@ Feel free to connect with me!
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" target="_blank" />
 </p>
 
----
-
-## Projects
-
-### [MatchA Dance](https://matcha-dance.vercel.app)  
-**1st Place — GoOn Hacks Hackathon**  
-An AI-powered dance battle app that scores choreography using **MediaPipe** motion tracking.  
-- Built with **React**, **Supabase**, **PostgreSQL**, and **Vite**.
-- Deployed using **Vercel** and **Render**.  
-📂 [View GitHub Repository](https://github.com/Angus-Sun/matchA-Dance)
-
----
-
-### [Squat Showdown](https://squat-showdown.vercel.app)  
-**Best AI Hack — Boost Hacks II**  
-A real-time squat detection game using **MediaPipe** for pose tracking and **WebSocket** for multiplayer gameplay.  
-📂 [View GitHub Repository](https://github.com/Angus-Sun/squat-showdown)
-
----
-
-### [Skync](https://skync-frontend.vercel.app)  
-A collaborative whiteboard app that allows real-time drawing, image, and text collaboration using **Socket.IO** and **React**.  
-📂 [View GitHub Repository](https://github.com/Angus-Sun/skync)
