@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=953DF7&width=635&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Angus+Sun." width = 8000 alt="Typing SVG"/>
 </a>
 
----
-
 ## 👨‍💻 About Me
 
 I’m a 1st year **Software Engineering** student at the **University of Waterloo**, currently exploring the world of **Full-Stack Development**, **AI**, and **Web Technologies**. I love turning complex ideas into real-world applications, and I’m constantly seeking opportunities to expand my skills and knowledge.
