@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=953DF7&width=635&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Angus+Sun." width = 8000 alt="Typing SVG"/>
 </a>
 
-## 👨‍💻 About Me
+## About Me
+
 
 I’m a 1st year **Software Engineering** student at the **University of Waterloo**, currently exploring the world of **Full-Stack Development**, **AI**, and **Web Technologies**. I love turning complex ideas into real-world applications, and I’m constantly seeking opportunities to expand my skills and knowledge.
 
@@ -18,7 +19,7 @@ Feel free to connect with me!
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Languages & Frameworks
 
@@ -55,7 +56,7 @@ Feel free to connect with me!
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [MatchA Dance](https://matcha-dance.vercel.app)  
 **1st Place — GoOn Hacks Hackathon**  
@@ -76,11 +77,3 @@ A real-time squat detection game using **MediaPipe** for pose tracking and **Web
 ### [Skync](https://skync-frontend.vercel.app)  
 A collaborative whiteboard app that allows real-time drawing, image, and text collaboration using **Socket.IO** and **React**.  
 📂 [View GitHub Repository](https://github.com/Angus-Sun/skync)
-
----
-
-## 📫 Contact
-
-- [GitHub](https://github.com/Angus-Sun)
-- [LinkedIn](https://linkedin.com/in/angussun)
-- Email: [a86sun@uwaterloo.ca](mailto:a86sun@uwaterloo.ca)
