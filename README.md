@@ -5,11 +5,9 @@
 ## About Me
 
 
-I’m a 1st year **Software Engineering** student at the **University of Waterloo**, currently exploring the world of **Full-Stack Development**, **AI**, and **Web Technologies**. I love turning complex ideas into real-world applications, and I’m constantly seeking opportunities to expand my skills and knowledge.
 
-- 💻 **Current Focus**: Building scalable web applications and improving my understanding of data structures and algorithms.
-- 🎮 **Passions**: Web development, AI/ML, hackathons, and competitive programming.
-- 📚 **Learning Goals**: Expanding my expertise in backend technologies, DevOps, and cloud infrastructure.
+- 💻 I’m currently a 1st year **Software Engineering** student at the **University of Waterloo** with experiences in web development, AI/ML, hackathons, and competitive programming.
+- 📚 I'm currently looking to expand my expertise in backend technologies, DevOps, and cloud infrastructure.
 
 Feel free to connect with me!
 
