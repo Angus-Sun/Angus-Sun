@@ -6,14 +6,14 @@
 
 
 
-- 💻 I’m currently a 1st year **Software Engineering** student at the **University of Waterloo** with experiences in web development, AI/ML, hackathons, and competitive programming.
-- 📚 I'm currently looking to expand my expertise in backend technologies, DevOps, and cloud infrastructure.
+- I’m currently a 1st year **Software Engineering** student at the **University of Waterloo** with experiences in web development, AI/ML, hackathons, and competitive programming.
+- I'm currently looking to expand my expertise in backend technologies, DevOps, and cloud infrastructure.
 
 Feel free to connect with me!
 
-- 📫 Reach me at: [a86sun@uwaterloo.ca](mailto:a86sun@uwaterloo.ca)
-- 😄 Find me on [LinkedIn](https://www.linkedin.com/in/angussun/)
-- 🌐 Check out my [Personal Portfolio!](https://angussun.com/)
+- Reach me at: [a86sun@uwaterloo.ca](mailto:a86sun@uwaterloo.ca)
+- Find me on [LinkedIn](https://www.linkedin.com/in/angussun/)
+- Check out my [Personal Portfolio!](https://angussun.com/)
 
 ---
 
