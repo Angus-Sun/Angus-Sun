@@ -16,7 +16,6 @@
 - Building sovereign AI infrastructure at **TELUS**
 - Building voice-first productivity applications at **Lyntic**
 - Studying Software Engineering at the **University of Waterloo**
-- Interested in low-latency distributed systems, on-device inference, and the infrastructure that makes AI practical to deploy
 
 ### Previously
 
