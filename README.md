@@ -14,7 +14,7 @@
 ### Currently
 
 - Building sovereign AI infrastructure at **TELUS**
-- Co-founded Lyntic, a voice-first productivity app backed by **Althra Ventures**
+- Co-founded Lyntic, a voice-first productivity app backed by **Althra**
 - Studying Software Engineering at the **University of Waterloo**
 
 ### Previously
