@@ -29,6 +29,5 @@
 
 Feel free to connect with me!
 
-- Reach me at: [a86sun@uwaterloo.ca](mailto:a86sun@uwaterloo.ca)
 - Find me on [LinkedIn](https://www.linkedin.com/in/angussun/)
 - Check out my [Personal Portfolio!](https://angussun.com/)
